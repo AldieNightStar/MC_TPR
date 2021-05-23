@@ -1,0 +1,9 @@
+main: haxidenti.tpr.Main
+name: MC_Tpr
+version: 1.0
+author: HaxiDenti
+description: MC_Tpr plugin
+api-version: 1.13
+commands:
+  tpr:
+    description: Teleport random
